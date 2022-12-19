@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666607808 source:d:\dsa coding\selectionsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
